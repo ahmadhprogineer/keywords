@@ -1,4 +1,2 @@
 
-
-$Id$
-
+$Id: ahmad.c $
